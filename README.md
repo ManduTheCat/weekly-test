@@ -9,7 +9,7 @@
 
 |              |             | 👑김건현    | 문희주        | 안수빈       | 이우승       | 임태민        |
 | :---------:  | :---------: |  :---------:  |  :---------: | :---------:  | :---------:  | :---------:  |
-| 📅20220813     | 📜[벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&) | ☑️   |  ☑️  | ☑️  |  ☑️  |  ☑️ |
+| 📅20220813     | 📜[벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&) | ☑️   |  ⏳  | ☑️  |  ☑️  |  ☑️ |
 |   |  |    |   |   |   |   |
 
 
