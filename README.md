@@ -12,9 +12,9 @@
 | 📅20220813     | 📜[벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&) | ☑️   |  ⏳  | ☑️  |  ☑️  |  ☑️ |
 | 📅20220820     | 📜[괄호 추가하기](https://www.acmicpc.net/problem/16637) |    | ❌  | ☑️  | ☑️   |  ❌ |
 | 📅20220820     | 📜[⚾](https://www.acmicpc.net/problem/17281) |    | ⏳  |  ☑️ | ⏳   | ⏳ |
-| 📅20220827   | 📜낚시터 자리잡기                |  ☑️  |   | ☑️  |   |   ⏳ |
-| 📅20220827   | 📜헌터                            |         |   | ☑️  |   |  ☑️  |
-| 📅20220827   | 📜Shuffle-O-Matic               |    |   | ☑️  |   | ☑️  |
+| 📅20220827   | 📜낚시터 자리잡기                |  ☑️  |  ⏳ | ☑️  |   |   ⏳ |
+| 📅20220827   | 📜헌터                            |         |  ❌ | ☑️  |   |  ☑️  |
+| 📅20220827   | 📜Shuffle-O-Matic               |    |   | ☑️  |  ❌ | ☑️  |
 
 
 <br>
