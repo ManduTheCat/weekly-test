@@ -10,21 +10,26 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
+ * 원래 생각했던 풀이
  * 1. 제일 가까운 몹
  * 2. 해당 몹의 고객 vs 다음 몹
  * 3-1. 고객이라면, 현재까지 잡은 몹의 고객 vs 새로운 몹
  * 3-2. 몹이라면, 현재까지 잡은 몹의 고객 vs 새로운 몹
-
+ * ------------------------------------------------------------
+ * 일타강사 청강 후 ..
+ * 조건부 순열 만들기
+ * 고객을 방문할 때 의뢰를 완료해야만 순열에 포함
  */
+
 public class SW_헌터 {
 	static int M, minDist;
 	static Point[] array;
 	static int[] selected;
 	public static void main(String[] args) throws IOException {
-		File file = new File("res/input2.txt");
-		BufferedReader br = new BufferedReader(new FileReader(file));
+		//File file = new File("res/input2.txt");
+		//BufferedReader br = new BufferedReader(new FileReader(file));
 		
-		//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 		StringTokenizer st;
 		
@@ -95,6 +100,4 @@ public class SW_헌터 {
 	public static int getDist(Point p1, Point p2) {
 		return Math.abs(p1.x - p2.x) + Math.abs(p1.y - p2.y);
 	}
-	
-	
 }
