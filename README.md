@@ -15,8 +15,8 @@
 | 📅20220827   | 📜낚시터 자리잡기                |  ☑️  |  ⏳ | ☑️  |  ❌ |   ⏳ |
 | 📅20220827   | 📜헌터                            |     ❌    |  ❌ | ☑️  | ❌  |  ☑️  |
 | 📅20220827   | 📜Shuffle-O-Matic               |  ❌  | ❌  | ☑️  | ❌  | ☑️  |
-| 📅20221001   | 📜[상어초등학교](https://www.acmicpc.net/problem/21608)           |    |   |   |   |   |
-| 📅20221001   | 📜[상어중학교](https://www.acmicpc.net/problem/21609)            |    |   |   |   |   |
+| 📅20221001   | 📜[상어초등학교](https://www.acmicpc.net/problem/21608)           |    |   |   | ❌  |   |
+| 📅20221001   | 📜[상어중학교](https://www.acmicpc.net/problem/21609)            |    |   |   | ❌  |   |
 
 
 <br>
