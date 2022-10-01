@@ -59,15 +59,8 @@ public class BJ_21608_상어초등학교_문희주 {
 			}
 		}
 		
-//		for(int i = 0; i < N*N; i++) {
-//			for(int j = 0; j < 4; j++) {
-//				System.out.print(array[i][j] + " ");
-//			}
-//			System.out.println();
-//		}
-		
 		map = new int[N][N];
-		for(int idx : seq) {
+		for(int idx : seq) { // 학생 순서대로 맵에 배치
 			func(idx);
 		}
 		
@@ -79,34 +72,37 @@ public class BJ_21608_상어초등학교_문희주 {
 		
 		for(int i = 0; i < N; i++) {
 			for(int j = 0; j < N; j++) {
-				if(map[i][j] != 0) continue;
-				int like = 0;
-				int cnt = 0;
-				for(int k = 0; k < 4; k++) {
+				if(map[i][j] != 0) continue; // 이미 다른 학생이 있는 경우 continue
+				int like = 0; // 호감 친구 수
+				int cnt = 0; // 인접 빈 칸 수
+				for(int k = 0; k < 4; k++) { // (i, j)에 배치했을 경우에 대하여 사방향 탐색
 					int dx = i + dir[k][0];
 					int dy= j + dir[k][1];
 					
 					if(dx < 0 || dy < 0 || dx >= N || dy >= N) continue;
-					if(map[dx][dy] == 0) cnt++;
-					else if(checkLike(idx, map[dx][dy])) like++;
+					if(map[dx][dy] == 0) cnt++; // 인접 칸이 빈 칸인 경우
+					else if(checkLike(idx, map[dx][dy])) like++; // 인접 칸이 호감 친구인 경우
 					
-					pq.add(new Place(i, j, like, cnt));
+					pq.add(new Place(i, j, like, cnt)); // 탐색 결과를 우선순위에 삽입
 				}
 			}
 		}
 		
-		Place now = pq.poll();
+		Place now = pq.poll(); // 가장 우선순위가 높은 결과를 최종 위치로 선정
 		
 
-		map[now.x][now.y] =  idx;
+		map[now.x][now.y] =  idx; // 맵에 배치
 	}
 	
+	// 해당 인접 칸이 현재 학생이 좋아하는 학생의 번호인지 확인
 	public static boolean checkLike(int idx, int cons) {
 		for(int i = 0; i < 4; i++) {
-			if(array[idx-1][i] == cons) return true;;
+			if(array[idx-1][i] == cons) return true;
 		}
 		return false;
 	}
+	
+	// 만족도 조사
 	public static int getSatis() {
 		int result = 0;
 		
@@ -123,6 +119,7 @@ public class BJ_21608_상어초등학교_문희주 {
 					if(checkLike(r, map[dx][dy])) count++;
 				}
 				
+				// 좋아하는 학생의 수에 따른 점수표
 				switch (count) {
 				case 0:
 					result += 0;
