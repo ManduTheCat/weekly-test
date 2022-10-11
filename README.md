@@ -17,8 +17,8 @@
 | 📅20220827   | 📜Shuffle-O-Matic               |  ❌  | ❌  | ☑️  | ❌  | ☑️  |
 | 📅20221001   | 📜[상어초등학교](https://www.acmicpc.net/problem/21608)           |  ☑️  | ☑️  |   | ⏳  |  ☑️ |
 | 📅20221001   | 📜[상어중학교](https://www.acmicpc.net/problem/21609)            | ⏳   | ⏳  |   | ❌  | ☑️  |
-| 📅20221008   | 📜[색종이붙이기](https://www.acmicpc.net/problem/17136)           |   |   |   |   | ☑️  |
-| 📅20221008   | 📜[디저트카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)    |  ☑️  |   |   | ☑️  | ☑️  |
+| 📅20221008   | 📜[색종이붙이기](https://www.acmicpc.net/problem/17136)           |   | ☑️  |   |   | ☑️  |
+| 📅20221008   | 📜[디저트카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)    |  ☑️  | ☑️  |   | ☑️  | ☑️  |
 
 
 <br>
