@@ -1,50 +1,46 @@
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-class Main {
-	public static int N, K;
-	public static int[] W, V;
-	public static int[][] map;
+public class BJ_12865_평범한배낭 {
 	
+	static int N, K;
+	static int[][] Items;
+	static int[][] Table;
+
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-		StringTokenizer st;
+		StringTokenizer st = new StringTokenizer(br.readLine());
 		
-		st = new StringTokenizer(br.readLine());
 		N = Integer.parseInt(st.nextToken());
 		K = Integer.parseInt(st.nextToken());
 		
-		W = new int[N + 1];
-		V = new int[N + 1];
-		map = new int[N + 1][K + 1];
-		
+		Items = new int[N+1][2];
 		for (int i = 1; i <= N; i++) {
 			st = new StringTokenizer(br.readLine());
-			W[i] = Integer.parseInt(st.nextToken());
-			V[i] = Integer.parseInt(st.nextToken());
+			Items[i][0] = Integer.parseInt(st.nextToken());
+			Items[i][1] = Integer.parseInt(st.nextToken());
 		}
 		
-		for (int i = 1; i <= N; i++) {
-			
-			for (int k = 1; k <= K; k++) {
-				
-				if (W[i] > k) {
-					map[i][k] = map[i - 1][k];
+		Table = new int[N+1][K+1];
+		for (int i = 0; i <= N; i++) {
+			for (int w = 0; w <= K; w++) {
+				if (i == 0 || w == 0) {
+					Table[i][w] = 0;
 					continue;
 				}
 				
-				if (W[i] <= k) {
-					map[i][k] = Math.max(map[i - 1][k], map[i - 1][k - W[i]] + V[i]);
-					continue;
+				if (w < Items[i][0]) {
+					Table[i][w] = Table[i-1][w];
 				}
-				
+				else if (w >= Items[i][0]) {
+					Table[i][w] = Math.max(Table[i-1][w], Table[i-1][w-Items[i][0]] + Items[i][1]);
+				}
 			}
 		}
 		
-		bw.write(map[N][K] + "\n");
-		bw.flush();
-		bw.close();
-
+		System.out.println(Table[N][K]);
 	}
+
 }
