@@ -31,28 +31,31 @@ public class BJ_1890_점프_문희주 {
 		
 		
 		int[][] dir = new int[][] {{0, 1}, {1, 0}}; // 하우
-		long[][] dp = new long[N][N];
-		dp[0][0] = 1L;
+		long[][] dp = new long[N][N]; // 조건 : 경로의 개수는 263-1보다 작거나 같다.
+		dp[0][0] = 1L; // 시작지점
 		
+		// 좌>우, 상>하 순서대로 dp 테이블 갱신
 		for(int i = 0; i < N; i++) {
 			for(int j = 0; j < N; j++) {
-				if(dp[i][j] == 0) continue;
-				if(i == N-1 && j == N-1) break;
+				if(dp[i][j] == 0) continue; // 해당 칸에 가는 방법이 0인 경우 continue
+				if(i == N-1 && j == N-1) break; // 종착지 도착
 				
+				// 우, 하 방향으로 dp 테이블 갱신
 				for(int k = 0; k < 2; k++) {
 					int dx = i + dir[k][0] * map[i][j];
 					int dy = j + dir[k][1] * map[i][j];
 					
-					if(dx < 0 || dy < 0 || dx >= N || dy >= N) continue;
-					dp[dx][dy] += dp[i][j];
+					if(dx < 0 || dy < 0 || dx >= N || dy >= N) continue; // 범위 체크
+					dp[dx][dy] += dp[i][j]; // (dx, dy)에 갈 수 있는 경우의 수 더하기
 				}
 			}
 		}
 		
-		System.out.println(dp[N-1][N-1]);
+		System.out.println(dp[N-1][N-1]); // 종착지까지 갈 수 있는 경우의 수
 		
 	}
 	
+	// 디버깅용
 	public static void print(int[][] array) {
 		for(int[] arr : array) {
 			for(int k : arr) {
