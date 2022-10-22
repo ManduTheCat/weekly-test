@@ -18,6 +18,7 @@ import java.util.*;
  * 모든 사람들이 계단을 내려가 이동이 완료되는 시간이 최소가 되는 경우를 구하는 프로그램
  * 
  * 계단의 입구는 반드시 2개
+ * Reference is Good ;)
  */
 
 class Person implements Comparable<Person>{
