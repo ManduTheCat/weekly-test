@@ -20,8 +20,8 @@
 | 📅20221008   | 📜[색종이붙이기](https://www.acmicpc.net/problem/17136)           |   | ⏳  | ❌  | ❌  | ☑️  |
 | 📅20221008   | 📜[디저트카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)    |  ☑️  | ☑️  | ❌ | ☑️  | ☑️  |
 | 📅20221015   | 📜[평범한배낭](https://www.acmicpc.net/problem/12865)    | ☑️   | ☑️ | ☑️  | ☑️ | ☑️  |
-| 📅20221023   | 📜[점프](https://www.acmicpc.net/problem/1890)    |   | ☑️ |   |  | ☑️  |
-| 📅20221023   | 📜[점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)    |    | ☑️ |   |  | ☑️  |
+| 📅20221023   | 📜[점프](https://www.acmicpc.net/problem/1890)    |  ☑️ | ☑️ |   |  | ☑️  |
+| 📅20221023   | 📜[점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)    | ☑️   | ☑️ |   |  | ☑️  |
 
 
 <br>
