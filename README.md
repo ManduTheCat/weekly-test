@@ -22,8 +22,8 @@
 | 📅20221015   | 📜[평범한배낭](https://www.acmicpc.net/problem/12865)    | ☑️   | ☑️ | ☑️  | ☑️ | ☑️  |
 | 📅20221023   | 📜[점프](https://www.acmicpc.net/problem/1890)    |  ☑️ | ☑️ | ☑️   |  | ☑️  |
 | 📅20221023   | 📜[점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)    | ☑️   | ☑️ | ☑️   |  | ☑️  |
-| 📅20221029   | 📜[자두나무](https://www.acmicpc.net/problem/2240)    |  ☑️ | ☑️ |    |  |   |
-| 📅20221029   | 📜[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    |  ☑️  | ☑️ |    |  |   |
+| 📅20221029   | 📜[자두나무](https://www.acmicpc.net/problem/2240)    |  ☑️ | ☑️ |    |  |  ☑️  |
+| 📅20221029   | 📜[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    |  ☑️  | ☑️ |    |  | ☑️   |
 
 
 <br>
