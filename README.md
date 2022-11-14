@@ -25,7 +25,7 @@
 | 📅20221029   | 📜[자두나무](https://www.acmicpc.net/problem/2240)    |  ☑️ | ☑️ |  ☑️  |  |  ☑️  |
 | 📅20221029   | 📜[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    |  ☑️  | ☑️ |  ☑️  |  | ☑️   |
 | 📅20221112  | 📜[장훈이의 높은 선반](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw)    | ☑️  | ☑️ |  ☑️  | ☑️ |  ☑️  |
-| 📅20221112   | 📜[혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)    |    | ⏳ |  ☑️  |⏳  | ☑️   |
+| 📅20221112   | 📜[혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)    | ❌   | ⏳ |  ☑️  |⏳  | ☑️   |
 
 <br>
 
