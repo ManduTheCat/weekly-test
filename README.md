@@ -28,7 +28,7 @@
 | 📅20221112   | 📜[혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)    | ❌   | ⏳ |  ☑️  |⏳  | ☑️   |
 | 📅20230107   | 📜[단어 공부](https://www.acmicpc.net/problem/1157)    |  ☑️  |  |  ☑️  |  |   ☑️  |
 | 📅20230107   | 📜[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)    |   ☑️ |  | ☑️   |  |   ☑️  |
-| 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |    |  |  ☑️  |  |  ⏳  |
+| 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |  ☑️  |  |  ☑️  |  |  ⏳  |
 
 <br>
 
