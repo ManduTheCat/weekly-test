@@ -30,7 +30,7 @@
 | 📅20230107   | 📜[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)    |   ☑️ |  | ☑️   |  |   ☑️  |
 | 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |  ☑️  |  |  ☑️  |  |  ⏳  |
 | 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    |    | ☑️ |   |  |     |
-| 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    |  ☑️  |  |    |  |    |
+| 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    |    | ☑️ |    |  |    |
 | 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |    | ☑️ |    |  |    |
 
 <br>
