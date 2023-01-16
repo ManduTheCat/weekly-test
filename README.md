@@ -32,6 +32,11 @@
 | 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    |    | ☑️ |   |  |     |
 | 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    |    | ☑️ |    |  |    |
 | 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |    | ☑️ |    |  |    |
+| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |    |  |    |  |    |
+| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |    |  |    |  |    |
+| 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    |    |  |    |  |    |
+| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |    |  |    |  |    |
+
 
 <br>
 
