@@ -31,14 +31,14 @@
 | 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |  ☑️  |  |  ☑️  |  |  ⏳  |
 | 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    | ☑️   | ☑️ | ☑️  |  |   ☑️   |
 | 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    | ☑️   | ☑️ | ☑️   |  |  ☑️  |
-| 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |    | ☑️ |  ☑️  |  | ☑️   |
-| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |    | ☑️ |  ☑️  |  |    |
-| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |    | ☑️ | ☑️   |  |    |
+| 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |   ❌ | ☑️ |  ☑️  |  | ☑️   |
+| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |   ❌ | ☑️ |  ☑️  |  |    |
+| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |  ❌  | ☑️ | ☑️   |  |    |
 | 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  | ☑️   |  |  ☑️   |
-| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |    | ☑️ | ☑️   |  |  ☑️   |
-| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    |    |  |    |  |     |
-| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |    |  |    |  |     |
-| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |    |  |   |  |     |
+| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |  ❌  | ☑️ | ☑️   |  |  ☑️   |
+| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    | ☑️   |  |    |  |     |
+| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |  ☑️  |  |    |  |     |
+| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  |  |   |  |     |
 
 
 <br>
