@@ -29,13 +29,13 @@
 | 📅20230107   | 📜[단어 공부](https://www.acmicpc.net/problem/1157)    |  ☑️  |  |  ☑️  |  |   ☑️  |
 | 📅20230107   | 📜[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)    |   ☑️ |  | ☑️   |  |   ☑️  |
 | 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |  ☑️  |  |  ☑️  |  |  ⏳  |
-| 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    | ☑️   | ☑️ |   |  |   ☑️   |
-| 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    | ☑️   | ☑️ |    |  |  ☑️  |
-| 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |    | ☑️ |    |  | ☑️   |
-| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |    | ☑️ |    |  |    |
-| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |    | ☑️ |    |  |    |
-| 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  |    |  |  ☑️   |
-| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |    | ☑️ |    |  |  ☑️   |
+| 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    | ☑️   | ☑️ | ☑️  |  |   ☑️   |
+| 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    | ☑️   | ☑️ | ☑️   |  |  ☑️  |
+| 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |    | ☑️ |  ☑️  |  | ☑️   |
+| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |    | ☑️ |  ☑️  |  |    |
+| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |    | ☑️ | ☑️   |  |    |
+| 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  | ☑️   |  |  ☑️   |
+| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |    | ☑️ | ☑️   |  |  ☑️   |
 
 
 <br>
