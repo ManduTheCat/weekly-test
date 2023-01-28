@@ -36,6 +36,9 @@
 | 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |    | ☑️ | ☑️   |  |    |
 | 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  | ☑️   |  |  ☑️   |
 | 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |    | ☑️ | ☑️   |  |  ☑️   |
+| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    |    |  |    |  |     |
+| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |    |  |    |  |     |
+| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |    |  |   |  |     |
 
 
 <br>
