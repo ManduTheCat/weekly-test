@@ -39,8 +39,8 @@
 | 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    | ☑️   | ⏳ | ☑️  |  |     |
 | 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |  ☑️  | ☑️ | ☑️   |  |     |
 | 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  | ☑️ | ☑️  |  |     |
-| 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |    | ☑️ | ☑️   |  |     |
-| 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    |    | ☑️ |  ☑️  |  |     |
+| 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   |  |     |
+| 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  |  |     |
 
 
 <br>
