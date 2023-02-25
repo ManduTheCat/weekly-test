@@ -26,21 +26,21 @@
 | 📅20221029   | 📜[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    |  ☑️  | ☑️ |  ☑️  | ⏳ | ☑️   |
 | 📅20221112  | 📜[장훈이의 높은 선반](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw)    | ☑️  | ☑️ |  ☑️  | ☑️ |  ☑️  |
 | 📅20221112   | 📜[혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)    | ❌   | ⏳ |  ☑️  |⏳  | ☑️   |
-| 📅20230107   | 📜[단어 공부](https://www.acmicpc.net/problem/1157)    |  ☑️  |  |  ☑️  |  |   ☑️  |
-| 📅20230107   | 📜[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)    |   ☑️ |  | ☑️   |  |   ☑️  |
-| 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |  ☑️  |  |  ☑️  |  |  ⏳  |
-| 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    | ☑️   | ☑️ | ☑️  |  |   ☑️   |
-| 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    | ☑️   | ☑️ | ☑️   |  |  ☑️  |
-| 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |   ❌ | ☑️ |  ☑️  |  | ☑️   |
-| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |   ❌ | ☑️ |  ☑️  |  |    |
-| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |  ❌  | ☑️ | ☑️   |  |    |
-| 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  | ☑️   |  |  ☑️   |
-| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |  ❌  | ☑️ | ☑️   |  |  ☑️   |
-| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    | ☑️   | ⏳ | ☑️  |  |     |
-| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |  ☑️  | ☑️ | ☑️   |  |     |
-| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  | ☑️ | ☑️  |  |     |
-| 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   |  |     |
-| 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  |  |     |
+| 📅20230107   | 📜[단어 공부](https://www.acmicpc.net/problem/1157)    |  ☑️  |  |  ☑️  | ☑️ |   ☑️  |
+| 📅20230107   | 📜[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)    |   ☑️ |  ☑️| ☑️   |  |   ☑️  |
+| 📅20230107   | 📜[문자열 폭발](https://www.acmicpc.net/problem/9935)    |  ☑️  |  |  ☑️  | ☑️ |  ⏳  |
+| 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    | ☑️   | ☑️ | ☑️  | ☑️ |   ☑️   |
+| 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    | ☑️   | ☑️ | ☑️   | ☑️ |  ☑️  |
+| 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |   ❌ | ☑️ |  ☑️  | ☑️ | ☑️   |
+| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |   ❌ | ☑️ |  ☑️  | ☑️ |    |
+| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |  ❌  | ☑️ | ☑️   | ☑️ |    |
+| 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  | ☑️   |☑️  |  ☑️   |
+| 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |  ❌  | ☑️ | ☑️   |☑️  |  ☑️   |
+| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    | ☑️   | ⏳ | ☑️  | ☑️ |     |
+| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |  ☑️  | ☑️ | ☑️   |☑️  |     |
+| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  | ☑️ | ☑️  | ☑️ |     |
+| 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   | ❌ |     |
+| 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  | ☑️ |     |
 
 
 <br>
