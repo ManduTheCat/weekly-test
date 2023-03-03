@@ -41,7 +41,7 @@
 | 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  | ☑️ | ☑️  | ☑️ |     |
 | 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   | ❌ |     |
 | 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  | ☑️ |     |
-| 📅20230225   | 📜[문자열 게임 2](https://www.acmicpc.net/problem/20437)    |    | ☑️ |    | ☑️ |     |
+| 📅20230225   | 📜[문자열 게임 2](https://www.acmicpc.net/problem/20437)    |    | ☑️ |  ⏳  | ☑️ |     |
 
 
 <br>
