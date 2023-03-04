@@ -32,16 +32,19 @@
 | 📅20230114   | 📜[ZOAC4](https://www.acmicpc.net/problem/23971)    | ☑️   | ☑️ | ☑️  | ☑️ |   ☑️   |
 | 📅20230114   | 📜[볼 모으기](https://www.acmicpc.net/problem/17615)    | ☑️   | ☑️ | ☑️   | ☑️ |  ☑️  |
 | 📅20230114   | 📜[불!](https://www.acmicpc.net/problem/4179)    |   ❌ | ☑️ |  ☑️  | ☑️ | ☑️   |
-| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |   ❌ | ☑️ |  ☑️  | ☑️ |    |
-| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |  ❌  | ☑️ | ☑️   | ☑️ |    |
+| 📅20230121   | 📜[파티](https://www.acmicpc.net/problem/1238)    |   ❌ | ☑️ |  ☑️  | ☑️ | ❌   |
+| 📅20230121   | 📜[소가길을건너간이유](https://www.acmicpc.net/problem/14466)    |  ❌  | ☑️ | ☑️   | ☑️ | ❌   |
 | 📅20230121   | 📜[벌집](https://www.acmicpc.net/problem/2292)    | ☑️   |☑️  | ☑️   |☑️  |  ☑️   |
 | 📅20230121   | 📜[삼각형과 세 변](https://www.acmicpc.net/problem/5073)    |  ❌  | ☑️ | ☑️   |☑️  |  ☑️   |
-| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    | ☑️   | ⏳ | ☑️  | ☑️ |     |
-| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |  ☑️  | ☑️ | ☑️   |☑️  |     |
-| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  | ☑️ | ☑️  | ☑️ |     |
-| 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   | ❌ |     |
-| 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  | ☑️ |     |
-| 📅20230225   | 📜[문자열 게임 2](https://www.acmicpc.net/problem/20437)    | ☑️   | ☑️ |  ⏳  | ☑️ |     |
+| 📅20230128   | 📜[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)    | ☑️   | ⏳ | ☑️  | ☑️ |   ❌  |
+| 📅20230128   | 📜[올림픽](https://www.acmicpc.net/problem/8979)    |  ☑️  | ☑️ | ☑️   |☑️  |  ❌   |
+| 📅20230128   | 📜[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)    |  ☑️  | ☑️ | ☑️  | ☑️ |   ❌  |
+| 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   | ❌ |   ❌  |
+| 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  | ☑️ |  ❌   |
+| 📅20230225   | 📜[문자열 게임 2](https://www.acmicpc.net/problem/20437)    | ☑️   | ☑️ |  ⏳  | ☑️ |    ❌ |
+| 📅20230304   | 📜[줄세우기](https://www.acmicpc.net/problem/10431)    |    |  |   |  |   ☑️  |
+| 📅20230304   | 📜[진우와 달 여행(small)](https://www.acmicpc.net/problem/17484)    |    |  |    |  |  ☑️   |
+| 📅20230304   | 📜[택배배송](https://www.acmicpc.net/problem/5972)    |   |  |   |  |  ☑️   |
 
 
 <br>
