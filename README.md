@@ -42,9 +42,9 @@
 | 📅20230220   | 📜[쉬운 최단거리](https://www.acmicpc.net/problem/14940)    |  ☑️  | ☑️ | ☑️   | ❌ |   ❌  |
 | 📅20230220   | 📜[A와 B 2](https://www.acmicpc.net/problem/12919)    | ☑️   | ☑️ |  ☑️  | ☑️ |  ❌   |
 | 📅20230225   | 📜[문자열 게임 2](https://www.acmicpc.net/problem/20437)    | ☑️   | ☑️ |  ⏳  | ☑️ |    ❌ |
-| 📅20230304   | 📜[줄세우기](https://www.acmicpc.net/problem/10431)    |    |  |  ☑️ |  |   ☑️  |
-| 📅20230304   | 📜[진우와 달 여행(small)](https://www.acmicpc.net/problem/17484)    |    |  |  ☑️  |  |  ☑️   |
-| 📅20230304   | 📜[택배배송](https://www.acmicpc.net/problem/5972)    |   |  |  ☑️ |  |  ☑️   |
+| 📅20230304   | 📜[줄세우기](https://www.acmicpc.net/problem/10431)    |  ☑️  |  |  ☑️ |  |   ☑️  |
+| 📅20230304   | 📜[진우와 달 여행(small)](https://www.acmicpc.net/problem/17484)    |  ☑️  |  |  ☑️  |  |  ☑️   |
+| 📅20230304   | 📜[택배배송](https://www.acmicpc.net/problem/5972)    |  ❌ |  |  ☑️ |  |  ☑️   |
 
 
 <br>
