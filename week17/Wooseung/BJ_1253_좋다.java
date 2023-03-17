@@ -27,7 +27,7 @@ public class BJ_1253_좋다 {
 
                 if(numbers[start] + numbers[end] > numbers[i]) end--;
                 else if(numbers[start] + numbers[end] < numbers[i]) start++;
-                else{      // 좋다!
+                else{    
                     result++;
                     break;
                 }
