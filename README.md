@@ -45,9 +45,9 @@
 | 📅20230304   | 📜[줄세우기](https://www.acmicpc.net/problem/10431)    |  ☑️  |  |  ☑️ |  ☑️ |   ☑️  |
 | 📅20230304   | 📜[진우와 달 여행(small)](https://www.acmicpc.net/problem/17484)    |  ☑️  |  |  ☑️  |  ☑️ |  ☑️   |
 | 📅20230304   | 📜[택배배송](https://www.acmicpc.net/problem/5972)    |  ❌ |  |  ☑️ | ❌ |  ☑️   |
-| 📅20230311   | 📜[쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)    | ☑️ |  |  |  | |
-| 📅20230311   | 📜[블로그](https://www.acmicpc.net/problem/21921)    | ☑️ |  |  |  | |
-| 📅20230311   | 📜[좋다](https://www.acmicpc.net/problem/1253)    | ☑️ |  |  |  | |
+| 📅20230311   | 📜[쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)    | ☑️ |  |  |☑️  | |
+| 📅20230311   | 📜[블로그](https://www.acmicpc.net/problem/21921)    | ☑️ |  |  | ☑️ | |
+| 📅20230311   | 📜[좋다](https://www.acmicpc.net/problem/1253)    | ☑️ |  |  | ☑️ | |
 
 
 <br>
