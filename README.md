@@ -51,7 +51,7 @@
 | 📅20230318   | 📜[빗물](https://www.acmicpc.net/problem/14719)    |  | ☑️ |  |☑️  | |
 | 📅20230318   | 📜[자동차 평균 대여기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342)    |  | ☑️ |  | ☑️ | |
 | 📅20230318   | 📜[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    |  | ☑️ |  | ☑️ | |
-| 📅20230325   | 📜[용액](https://www.acmicpc.net/problem/2467)    |  | ☑️ |  |  | |
+| 📅20230325   | 📜[용액](https://www.acmicpc.net/problem/2467)    |  | ☑️ |  | ☑️ | |
 | 📅20230325   | 📜[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)    |  | ☑️ |  | ☑️ | |
 | 📅20230325   | 📜[고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)    |  | ☑️ |  | ☑️ | |
 
