@@ -9,7 +9,7 @@ class Solution {
 		for (int delivery: deliveries) deleveryCnt += delivery;
 		for (int pickup: pickups) pickupsCnt += pickup;
 
-        while (n > 0 && deliveries[n - 1] == 0 && pickups[n - 1] == 0) --n;
+		while (n > 0 && deliveries[n - 1] == 0 && pickups[n - 1] == 0) --n;
         
 		while (n > 0) {
 			int d = 0;
