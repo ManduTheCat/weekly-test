@@ -30,7 +30,7 @@ class Solution {
 			}
 
 			answer += (n * 2);
-            while (n > 0 && deliveries[n - 1] == 0 && pickups[n - 1] == 0) --n;
+			while (n > 0 && deliveries[n - 1] == 0 && pickups[n - 1] == 0) --n;
 		}
 		
 		return answer;
