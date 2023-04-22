@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class BOJ_2138_전구와스위치 {
+public class BJ_2138_전구와스위치 {
 	
 	static int N;
 	static char[] before, after;
