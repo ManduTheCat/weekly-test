@@ -64,7 +64,7 @@
 | 📅20230429   | 📜[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)    |  |  |  |  |  |
 | 📅20230429   | 📜[틱택토](https://www.acmicpc.net/problem/7682)    |  |  |  |  |  |
 | 📅20230506   | 📜[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)    |  | ☑️ |  |  |  |
-| 📅20230506   | 📜[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |  |  |  |  |  |
+| 📅20230506   | 📜[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |  | ☑️ |  |  |  |
 
 
 <br>
