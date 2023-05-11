@@ -59,7 +59,7 @@
 | 📅20230401   | 📜[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)    | ❌ |  | ⏳ | ☑️ |  |
 | 📅20230422   | 📜[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)    | ☑️ |☑️  | ☑️ | ☑️ |  ||
 | 📅20230422   | 📜[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)    |❌  | ☑️ | ☑️ | ☑️ |  ||
-| 📅20230422   | 📜[로봇 조종하기](https://www.acmicpc.net/problem/2169)    |❌  | ⏳ | ☑️ |  |  |
+| 📅20230422   | 📜[로봇 조종하기](https://www.acmicpc.net/problem/2169)    |❌  | ⏳ | ☑️ | ❌ |  |
 | 📅20230429   | 📜[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)    |  |  |  |☑️  |  |
 | 📅20230429   | 📜[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)    |  |  |  |  |  |
 | 📅20230429   | 📜[틱택토](https://www.acmicpc.net/problem/7682)    |  |  |  |  |  |
