@@ -67,7 +67,7 @@
 | 📅20230506   | 📜[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |  | ☑️ |  |  | ☑️ | 
 | 📅20230521   | 📜[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)    |  | ☑️ |  |  |  | 
 | 📅20230521   | 📜[Darius님 한타 안 함 ?](https://www.acmicpc.net/problem/20499)    |  | ☑️ |  |  |  | 
-| 📅20230521   | 📜[로프](https://www.acmicpc.net/problem/2217)    |  | ☑️ |  |  |  | 
+| 📅20230521   | 📜[로프](https://www.acmicpc.net/problem/2217)    |  | ☑️ |  |  | ☑️ | 
 | 📅20230521   | 📜[창고 다각형](https://www.acmicpc.net/problem/2304)    |  |  |  |  | ☑️  | 
 
 
