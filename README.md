@@ -67,10 +67,10 @@
 | 📅20230521   | 📜[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)    | ☑️ | ☑️ |  |  |  | 
 | 📅20230521   | 📜[Darius님 한타 안 함 ?](https://www.acmicpc.net/problem/20499)    | ☑️ | ☑️ |  |  |  | 
 | 📅20230521   | 📜[로프](https://www.acmicpc.net/problem/2217)    | ☑️ | ☑️ |  |  | ☑️ | 
-| 📅20230521   | 📜[창고 다각형](https://www.acmicpc.net/problem/2304)    | ☑️ |  |  |  | ☑️  | 
+| 📅20230521   | 📜[창고 다각형](https://www.acmicpc.net/problem/2304)| ☑️ |  |  |  | ☑️  | 
 | 📅20230529   | 📜[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| ☑️ | ☑️ |  |  |  | 
 | 📅20230529   | 📜[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| ☑️ | ☑️ |  |  |  | 
-| 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)|  | ☑️ |  |  |  | 
+| 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| ☑️ | ☑️ |  |  |  | 
 
 
 <br>
