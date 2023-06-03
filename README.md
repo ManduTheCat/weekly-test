@@ -70,7 +70,10 @@
 | 📅20230521   | 📜[창고 다각형](https://www.acmicpc.net/problem/2304)| ☑️ |  |  | ☑️ | ☑️  | 
 | 📅20230529   | 📜[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| ☑️ | ☑️ |  |☑️  | ☑️ | 
 | 📅20230529   | 📜[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| ☑️ | ☑️ |  | ☑️ | ☑️ | 
-| 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| ☑️ | ☑️ |  |  ☑️| ☑️ | 
+| 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| ☑️ | ☑️ |  |  ☑️| ☑️ |
+| 📅20230604   | 📜[특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339)|  | ☑️ |  |  |  | 
+| 📅20230604   | 📜[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|  | ☑️ |  |  |  | 
+| 📅20230604   | 📜[다단계 칫솔](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|  | ⏳ |  |  |  | 
 
 
 <br>
