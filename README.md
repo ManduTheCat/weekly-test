@@ -73,8 +73,10 @@
 | 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| ☑️ | ☑️ |  |  ☑️| ☑️ |
 | 📅20230604   | 📜[특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339)|  | ☑️ |  |  |  | 
 | 📅20230604   | 📜[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|  | ☑️ |  |  |  | 
-| 📅20230604   | 📜[다단계 칫솔](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|  | ⏳ |  |  |  | 
-
+| 📅20230604   | 📜[다단계 칫솔](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|  | ⏳ |  |  |  |
+| 📅20230610   | 📜[헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)|  | ☑️ |  |  |  |
+| 📅20230610   | 📜[푸드 파이드 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|  | ☑️ |  |  |  |
+| 📅20230610   | 📜[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|  | ☑️ |  |  |  |
 
 <br>
 
