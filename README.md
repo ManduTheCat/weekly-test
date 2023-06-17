@@ -79,7 +79,7 @@
 | 📅20230610   | 📜[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|  | ☑️ |  |  | ☑️  |
 | 📅20230617   | 📜[110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)|  |  |  |  | ☑️  |
 | 📅20230617   | 📜[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|  |  |  |  |   |
-| 📅20230617   | 📜[우유와 요구르트가 담긴 장바구ㅣ](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  |  |  |  |  |
+| 📅20230617   | 📜[우유와 요구르트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  |  |  |  |  |
 
 <br>
 
