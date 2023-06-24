@@ -82,7 +82,7 @@
 | 📅20230617   | 📜[우유와 요구르트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  |  |  |  | ☑️  |
 | 📅20230624   | 📜[이항 계수 3](https://www.acmicpc.net/problem/11401)|  |  |  |  | ☑️  |
 | 📅20230624   | 📜[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  |  |  |  | ☑️  |
-| 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  |  |  |   |
+| 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  |  |  |  ☑️  |
 
 <br>
 
