@@ -62,30 +62,30 @@
 | 📅20230429   | 📜[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)    |  |  |  |☑️  |  |
 | 📅20230429   | 📜[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)    |  |  |  |☑️  |  |
 | 📅20230429   | 📜[틱택토](https://www.acmicpc.net/problem/7682)    |  |  |  |☑️  |  |
-| 📅20230506   | 📜[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)    |  | ☑️ |  | ☑️ | ☑️ |
-| 📅20230506   | 📜[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |  | ☑️ |  | ☑️ | ☑️ | 
-| 📅20230521   | 📜[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)    | ☑️ | ☑️ |  |☑️  | ☑️ | 
-| 📅20230521   | 📜[Darius님 한타 안 함 ?](https://www.acmicpc.net/problem/20499)    | ☑️ | ☑️ |  |☑️  |  ☑️ | 
-| 📅20230521   | 📜[로프](https://www.acmicpc.net/problem/2217)    | ☑️ | ☑️ |  | ☑️ | ☑️ | 
+| 📅20230506   | 📜[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)    |  | ☑️ | ☑️ | ☑️ | ☑️ |
+| 📅20230506   | 📜[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |  | ☑️ | ☑️ | ☑️ | ☑️ | 
+| 📅20230521   | 📜[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)    | ☑️ | ☑️ | ☑️ |☑️  | ☑️ | 
+| 📅20230521   | 📜[Darius님 한타 안 함 ?](https://www.acmicpc.net/problem/20499)    | ☑️ | ☑️ | ☑️ |☑️  |  ☑️ | 
+| 📅20230521   | 📜[로프](https://www.acmicpc.net/problem/2217)    | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | 
 | 📅20230521   | 📜[창고 다각형](https://www.acmicpc.net/problem/2304)| ☑️ |  |  | ☑️ | ☑️  | 
-| 📅20230529   | 📜[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| ☑️ | ☑️ |  |☑️  | ☑️ | 
-| 📅20230529   | 📜[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| ☑️ | ☑️ |  | ☑️ | ☑️ | 
-| 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| ☑️ | ☑️ |  |  ☑️| ☑️ |
-| 📅20230604   | 📜[특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339)|  | ☑️ |  |  | ☑️ | 
-| 📅20230604   | 📜[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|  | ☑️ |  |  | ☑️ | 
-| 📅20230604   | 📜[다단계 칫솔](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|  | ⏳ |  |  | ☑️ |
+| 📅20230529   | 📜[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| ☑️ | ☑️ | ☑️ |☑️  | ☑️ | 
+| 📅20230529   | 📜[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | 
+| 📅20230529   | 📜[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| ☑️ | ☑️ | ☑️ |  ☑️| ☑️ |
+| 📅20230604   | 📜[특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339)|  | ☑️ | ☑️ |  | ☑️ | 
+| 📅20230604   | 📜[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|  | ☑️ | ☑️ |  | ☑️ | 
+| 📅20230604   | 📜[다단계 칫솔](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|  | ⏳ | ☑️ |  | ☑️ |
 | 📅20230610   | 📜[헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)|  | ☑️ |  |  |  ☑️ |
 | 📅20230610   | 📜[푸드 파이드 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|  | ☑️ |  |  | ☑️  |
 | 📅20230610   | 📜[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|  | ☑️ |  |  | ☑️  |
 | 📅20230617   | 📜[110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)|  |  |  |  | ☑️  |
-| 📅20230617   | 📜[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|  |  |  |  | ☑️  |
-| 📅20230617   | 📜[우유와 요구르트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  |  |  |  | ☑️  |
+| 📅20230617   | 📜[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|  |  | ☑️ |  | ☑️  |
+| 📅20230617   | 📜[우유와 요구르트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  |  | ☑️ |  | ☑️  |
 | 📅20230624   | 📜[이항 계수 3](https://www.acmicpc.net/problem/11401)|  |  |  |  | ☑️  |
-| 📅20230624   | 📜[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  |  |  |  | ☑️  |
-| 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  |  |  |  ☑️  |
-| 📅20230701   | 📜[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|  | ☑️ |  |  |  |
+| 📅20230624   | 📜[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  |  | ☑️ |  | ☑️  |
+| 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  | ☑️ |  |  ☑️  |
+| 📅20230701   | 📜[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|  | ☑️ | ☑️ |  |  |
 | 📅20230701   | 📜[k번째 수](https://www.acmicpc.net/problem/1300)|  | ☑️ |  |  |   |
-| 📅20230624   | 📜[취소되지 않은 진료 예약하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)|  | ☑️ |  |  |    |
+| 📅20230624   | 📜[취소되지 않은 진료 예약하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)|  | ☑️ | ☑️ |  |    |
 
 <br>
 
