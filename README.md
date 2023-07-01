@@ -83,9 +83,9 @@
 | 📅20230624   | 📜[이항 계수 3](https://www.acmicpc.net/problem/11401)|  |  |  |  | ☑️  |
 | 📅20230624   | 📜[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  |  |  |  | ☑️  |
 | 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  |  |  |  ☑️  |
-| 📅20230701   | 📜[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|  |  |  |  |  |
-| 📅20230701   | 📜[k번째 수](https://www.acmicpc.net/problem/1300)|  |  |  |  |   |
-| 📅20230624   | 📜[취소되지 않은 진료 예약하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)|  |  |  |  |    |
+| 📅20230701   | 📜[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|  | ☑️ |  |  |  |
+| 📅20230701   | 📜[k번째 수](https://www.acmicpc.net/problem/1300)|  | ☑️ |  |  |   |
+| 📅20230624   | 📜[취소되지 않은 진료 예약하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)|  | ☑️ |  |  |    |
 
 <br>
 
