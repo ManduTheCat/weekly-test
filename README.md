@@ -90,7 +90,7 @@
 | 📅20230715   | 📜[개인 정보 수집 유효 기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|  |  |  |  |   |
 | 📅20230715   | 📜[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|  |  |  |  |   |
 | 📅20230722   | 📜[그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)|  |  | ☑️ |  | ☑️  |
-| 📅20230722   | 📜[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)|  |  | ☑️ |  |  ☑️    |
+| 📅20230722   | 📜[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)|  |  | ☑️ |  |  ⏳   |
 | 📅20230722   | 📜[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|  |  | ☑️ |  |  ☑️ |
 
 <br>
