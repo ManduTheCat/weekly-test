@@ -84,7 +84,7 @@
 | 📅20230624   | 📜[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  |  | ☑️ |  | ☑️  |
 | 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  | ☑️ |  |  ☑️  |
 | 📅20230701   | 📜[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|  | ☑️ | ☑️ |  |  |
-| 📅20230701   | 📜[k번째 수](https://www.acmicpc.net/problem/1300)|  | ☑️ |  |  |   |
+| 📅20230701   | 📜[k번째 수](https://www.acmicpc.net/problem/1300)|  | ☑️ |  |  |  ☑️    |
 | 📅20230701   | 📜[취소되지 않은 진료 예약하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)|  | ☑️ | ☑️ |  |  ☑️    |
 | 📅20230715   | 📜[자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)|  |  |  |  | ☑️ |
 | 📅20230715   | 📜[개인 정보 수집 유효 기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|  |  |  |  |   |
