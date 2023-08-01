@@ -1,0 +1,13 @@
+-- 코드를 입력하세요
+WITH MaxReview AS(
+    SELECT member_id, count(*) as count
+    FROM rest_review
+    GROUP BY member_id
+    ORDER BY count DESC
+    LIMIT 1;
+)
+
+SELECT m.member_name, r.review_text, r.review_date
+FROM member_profile m JOIN rest_review r  ON m.member_id = r.member_id
+WHERE m.member_id = MaxReview.member_id
+ORDER BY r.review_date, r.review_text;
