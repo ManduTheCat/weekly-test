@@ -95,6 +95,9 @@
 | 📅20230722   | 📜[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)| ☑️ | ☑️ |  |  | ☑️  |
 | 📅20230722   | 📜[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)| ☑️ | ⏳ |  |  |  ⏳   |
 | 📅20230722   | 📜[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995#)| ☑️ | ☑️ |  |  |  ⏳  |
+| 📅20230722   | 📜[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|  |  |  |  | ☑️  |
+| 📅20230722   | 📜[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|  |  |  |  |   ☑️   |
+| 📅20230722   | 📜[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|  |  |  |  |   ☑️   |
 
 <br>
 
