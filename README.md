@@ -98,6 +98,9 @@
 | 📅20230722   | 📜[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|  |  | ☑️ |  | ☑️  |
 | 📅20230722   | 📜[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|  |  | ⏳ |  |   ☑️   |
 | 📅20230722   | 📜[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|  |  | ☑️ |  |   ☑️   |
+| 📅20230722   | 📜[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|  |  |  |  | ☑️  |
+| 📅20230722   | 📜[풍선 터뜨리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|  |  | |  |   ☑️   |
+| 📅20230722   | 📜[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)|  |  |  |  |   ☑️   |
 
 <br>
 
