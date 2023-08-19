@@ -92,15 +92,18 @@
 | 📅20230722   | 📜[그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)|  | ☑️ | ☑️ |  | ☑️  |
 | 📅20230722   | 📜[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)|  | ⏳ | ☑️ |  |  ⏳   |
 | 📅20230722   | 📜[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|  | ☑️ | ☑️ |  |  ☑️ |
-| 📅20230722   | 📜[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)| ☑️ | ☑️ | ☑️ |  | ☑️  |
-| 📅20230722   | 📜[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)| ☑️ | ⏳ | ⏳ |  |  ⏳   |
-| 📅20230722   | 📜[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995#)| ☑️ | ☑️ | ⏳ |  |  ⏳  |
-| 📅20230722   | 📜[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|  |  | ☑️ |  | ☑️  |
-| 📅20230722   | 📜[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|  |  | ⏳ |  |   ☑️   |
-| 📅20230722   | 📜[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|  |  | ☑️ |  |   ☑️   |
-| 📅20230722   | 📜[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|  | ⏳ | ☑️ |  | ☑️  |
-| 📅20230722   | 📜[풍선 터뜨리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|  | ☑️ | ⏳ |  |   ☑️   |
-| 📅20230722   | 📜[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)|  | ☑️ | ☑️ |  |   ☑️   |
+| 📅20230729   | 📜[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)| ☑️ | ☑️ | ☑️ |  | ☑️  |
+| 📅20230729   | 📜[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)| ☑️ | ⏳ | ⏳ |  |  ⏳   |
+| 📅20230729   | 📜[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995#)| ☑️ | ☑️ | ⏳ |  |  ⏳  |
+| 📅20230805   | 📜[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|  |  | ☑️ |  | ☑️  |
+| 📅20230805   | 📜[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|  |  | ⏳ |  |   ☑️   |
+| 📅20230805   | 📜[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|  |  | ☑️ |  |   ☑️   |
+| 📅20230812   | 📜[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|  | ⏳ | ☑️ |  | ☑️  |
+| 📅20230812   | 📜[풍선 터뜨리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|  | ☑️ | ⏳ |  |   ☑️   |
+| 📅20230812   | 📜[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)|  | ☑️ | ☑️ |  |   ☑️   |
+| 📅20230819   | 📜[연속 펄스 부분 함수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|  |  | |  | ⏳ |
+| 📅20230819   | 📜[상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534)|  |  | |  |   ☑️   |
+| 📅20230819   | 📜[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|  |  |  |  |   ☑️   |
 
 <br>
 
