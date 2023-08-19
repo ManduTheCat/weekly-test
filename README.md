@@ -101,9 +101,9 @@
 | 📅20230812   | 📜[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|  | ⏳ | ☑️ |  | ☑️  |
 | 📅20230812   | 📜[풍선 터뜨리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|  | ☑️ | ⏳ |  |   ☑️   |
 | 📅20230812   | 📜[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)|  | ☑️ | ☑️ |  |   ☑️   |
-| 📅20230819   | 📜[연속 펄스 부분 함수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|  |  | |  | ⏳ |
-| 📅20230819   | 📜[상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534)|  |  | |  |   ☑️   |
-| 📅20230819   | 📜[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|  |  |  |  |   ☑️   |
+| 📅20230819   | 📜[연속 펄스 부분 함수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|  |  | ☑️ |  | ⏳ |
+| 📅20230819   | 📜[상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534)|  |  | ⏳ |  |   ☑️   |
+| 📅20230819   | 📜[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|  |  | ⏳ |  |   ☑️   |
 
 <br>
 
