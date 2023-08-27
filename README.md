@@ -105,8 +105,8 @@
 | 📅20230819   | 📜[상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534)|  |  | ⏳ |  |   ☑️   |
 | 📅20230819   | 📜[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|  |  | ⏳ |  |   ☑️   |
 | 📅20230826   | 📜[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|  |  |  |  |  |
-| 📅20230826   | 📜[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|  |  |  |  |     |
-| 📅20230826   | 📜[식품 분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)|  |  |  |  |     |
+| 📅20230826   | 📜[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|  |  |  |  |   ☑️  |
+| 📅20230826   | 📜[식품 분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)|  |  |  |  |   ☑️  |
 
 <br>
 
