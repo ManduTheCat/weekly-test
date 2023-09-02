@@ -107,6 +107,9 @@
 | 📅20230826   | 📜[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|  |  |  |  |  |
 | 📅20230826   | 📜[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|  |  |  |  |   ☑️  |
 | 📅20230826   | 📜[식품 분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)|  |  |  |  |   ☑️  |
+| 📅20230902   | 📜[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|  |  |  |  |  ☑️  |
+| 📅20230902   | 📜[년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532)|  |  |  |  |   ☑️  |
+| 📅20230902   | 📜[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694/)|  |  |  |  |   ☑️  |
 
 <br>
 
