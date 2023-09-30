@@ -110,7 +110,10 @@
 | 📅20230902   | 📜[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|  |  |  |  |  ☑️  |
 | 📅20230902   | 📜[년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532)|  |  |  |  |   ☑️  |
 | 📅20230902   | 📜[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694/)|  |  |  |  |   ☑️  |
-
+| 📅20230930   | 📜[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)|  | ☑️ |  |  |     |
+| 📅20230930   | 📜[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|  | ☑️ |  |  |     |
+| 📅20230930   | 📜[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860#)|  | ⏳ |  |  |     |
+| 📅20230930   | 📜[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|  | ☑️ |  |  |     |
 <br>
 
 ### 🍒Checking mark
