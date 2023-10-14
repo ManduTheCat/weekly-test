@@ -117,6 +117,9 @@
 | 📅20231007   | 📜[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|  |  |  |  |     |
 | 📅20231007   | 📜[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)|  |  |  |  |     |
 | 📅20231007   | 📜[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|  |  |  |  |     |
+| 📅20231014   | 📜[보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)|  |  |  |  |     |
+| 📅20231014   | 📜[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|  |  |  |  |     |
+| 📅20231014   | 📜[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)|  |  |  |  |     |
 <br>
 
 ### 🍒Checking mark
