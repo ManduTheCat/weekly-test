@@ -114,6 +114,9 @@
 | 📅20230930   | 📜[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|  | ☑️ |  |  |     |
 | 📅20230930   | 📜[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860#)|  | ⏳ |  |  |     |
 | 📅20230930   | 📜[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|  | ☑️ |  |  |     |
+| 📅20231007   | 📜[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|  |  |  |  |     |
+| 📅20231007   | 📜[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)|  |  |  |  |     |
+| 📅20231007   | 📜[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|  |  |  |  |     |
 <br>
 
 ### 🍒Checking mark
