@@ -127,9 +127,9 @@
 | 📅20231111   | 📜[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|  | ☑️ |  |  | ⏳  |
 | 📅20231111   | 📜[조회수가 가장 많은 중고거래 게시판 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)|  | ☑️ | |  | ☑️  |
 | 📅20231111   | 📜[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|  | ☑️ | |  | ⏳ |
-| 📅20231202   | 📜[미네랄](https://www.acmicpc.net/problem/2933)|  |  |  |  | ⏳  |
-| 📅20231202   | 📜[MooTube](https://www.acmicpc.net/problem/15591)|  |  | |  | ☑️  |
-| 📅20231202   | 📜[Consecutive Number](https://leetcode.com/problems/consecutive-numbers/)|  |  | |  | ☑️ |
+| 📅20231202   | 📜[미네랄](https://www.acmicpc.net/problem/2933)|  | ⏳ |  |  | ⏳  |
+| 📅20231202   | 📜[MooTube](https://www.acmicpc.net/problem/15591)|  | ⏳ | |  | ☑️  |
+| 📅20231202   | 📜[Consecutive Number](https://leetcode.com/problems/consecutive-numbers/)|  | ☑️ | |  | ☑️ |
 <br>
 
 ### 🍒Checking mark
