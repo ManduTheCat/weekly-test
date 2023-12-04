@@ -53,8 +53,8 @@
 | 📅20230325   | 📜[용액](https://www.acmicpc.net/problem/2467)    |☑️  | ☑️ | ⏳ | ☑️ | |
 | 📅20230325   | 📜[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)    | ☑️ | ☑️ | ☑️ | ☑️ | |
 | 📅20230325   | 📜[고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)    | ☑️ | ☑️ |☑️  | ☑️ | |
-| 📅20230401   | 📜[전구와 스위치](https://www.acmicpc.net/problem/2138)    | ❌ |  |☑️| ☑️ |  |
-| 📅20230401   | 📜[조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672)    |☑️  |  | ☑️ |☑️  |  |
+| 📅20230401   | 📜[전구와 스위치](https://www.acmicpc.net/problem/2138)    | ❌ | ⏳ |☑️| ☑️ |  |
+| 📅20230401   | 📜[조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672)    |☑️  | ☑️ | ☑️ |☑️  |  |
 | 📅20230401   | 📜[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)    | ❌ |  | ⏳ | ☑️ |  |
 | 📅20230422   | 📜[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)    | ☑️ |☑️  | ☑️ | ☑️ |  ||
 | 📅20230422   | 📜[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)    |❌  | ☑️ | ☑️ | ☑️ |  ||
