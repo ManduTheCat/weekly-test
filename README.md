@@ -59,9 +59,9 @@
 | 📅20230422   | 📜[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)    | ☑️ |☑️  | ☑️ | ☑️ |  ||
 | 📅20230422   | 📜[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)    |❌  | ☑️ | ☑️ | ☑️ |  ||
 | 📅20230422   | 📜[로봇 조종하기](https://www.acmicpc.net/problem/2169)    |❌  | ⏳ | ☑️ | ❌ |  |
-| 📅20230429   | 📜[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)    |  |  | ⏳ |☑️  |  |
-| 📅20230429   | 📜[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)    |  |  |  |☑️  |  |
-| 📅20230429   | 📜[틱택토](https://www.acmicpc.net/problem/7682)    |  |  | ⏳ |☑️  |  |
+| 📅20230429   | 📜[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)    |  | ☑️ | ⏳ |☑️  |  |
+| 📅20230429   | 📜[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)    |  | ☑️ |  |☑️  |  |
+| 📅20230429   | 📜[틱택토](https://www.acmicpc.net/problem/7682)    |  | ☑️ | ⏳ |☑️  |  |
 | 📅20230506   | 📜[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)    |  | ☑️ | ☑️ | ☑️ | ☑️ |
 | 📅20230506   | 📜[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |  | ☑️ | ☑️ | ☑️ | ☑️ | 
 | 📅20230521   | 📜[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)    | ☑️ | ☑️ | ☑️ |☑️  | ☑️ | 
