@@ -77,9 +77,9 @@
 | 📅20230610   | 📜[헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)|  | ☑️ | ⏳ |  |  ☑️ |
 | 📅20230610   | 📜[푸드 파이드 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|  | ☑️ |  |  | ☑️  |
 | 📅20230610   | 📜[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|  | ☑️ |  |  | ☑️  |
-| 📅20230617   | 📜[110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)|  |  |  |  | ☑️  |
-| 📅20230617   | 📜[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|  |  | ☑️ |  | ☑️  |
-| 📅20230617   | 📜[우유와 요구르트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  |  | ☑️ |  | ☑️  |
+| 📅20230617   | 📜[110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)|  | ⏳ |  |  | ☑️  |
+| 📅20230617   | 📜[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|  | ☑️ | ☑️ |  | ☑️  |
+| 📅20230617   | 📜[우유와 요구르트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|  | ☑️ | ☑️ |  | ☑️  |
 | 📅20230624   | 📜[이항 계수 3](https://www.acmicpc.net/problem/11401)|  |  |  |  | ☑️  |
 | 📅20230624   | 📜[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  |  | ☑️ |  | ☑️  |
 | 📅20230624   | 📜[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|  |  | ☑️ |  |  ☑️  |
