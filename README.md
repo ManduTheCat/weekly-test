@@ -130,6 +130,9 @@
 | 📅20231202   | 📜[미네랄](https://www.acmicpc.net/problem/2933)|  | ⏳ |  |  | ⏳  |
 | 📅20231202   | 📜[MooTube](https://www.acmicpc.net/problem/15591)|  | ⏳ | |  | ☑️  |
 | 📅20231202   | 📜[Consecutive Number](https://leetcode.com/problems/consecutive-numbers/)|  | ☑️ | |  | ☑️ |
+| 📅20231209   | 📜[뉴스전하기](https://www.acmicpc.net/problem/1135)|  |  |  |  | ⏳  |
+| 📅20231209   | 📜[가장 긴 짝수 연속부분수열](https://www.acmicpc.net/problem/22862)|  |  | |  | ☑️  |
+| 📅20231209   | 📜[게임을 만든 동준이](https://www.acmicpc.net/problem/2847)|  |  | |  | ☑️ |
 <br>
 
 ### 🍒Checking mark
