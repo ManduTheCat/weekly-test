@@ -133,6 +133,8 @@
 | 📅20231209   | 📜[뉴스전하기](https://www.acmicpc.net/problem/1135)|  | ⏳ |  |  | ⏳  |
 | 📅20231209   | 📜[가장 긴 짝수 연속부분수열](https://www.acmicpc.net/problem/22862)|  | ⏳ | |  | ☑️  |
 | 📅20231209   | 📜[게임을 만든 동준이](https://www.acmicpc.net/problem/2847)|  | ☑️ | |  | ☑️ |
+| 📅20231216   | 📜[양팔 저울](https://www.acmicpc.net/problem/2629)|  |  | |  | ⏳  |
+| 📅20231216   | 📜[확장 게임](https://www.acmicpc.net/problem/16920)|  |  | |  | ☑️ |
 <br>
 
 ### 🍒Checking mark
