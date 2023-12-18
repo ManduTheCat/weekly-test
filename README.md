@@ -120,10 +120,10 @@
 | 📅20231014   | 📜[보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)|  | ☑️ |  |  |    ☑️   |
 | 📅20231014   | 📜[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|  | ⏳ |  |  |    ☑️   |
 | 📅20231014   | 📜[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)|  | ❌ |  |  |  ☑️     |
-| 📅20231028   | 📜[카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529)|  |☑️| ☑️ |  |  |
+| 📅20231028   | 📜[카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529)|  |☑️| ☑️ |  |  ☑️ |
 | 📅20231028   | 📜[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|  | ☑️ | ☑️ |  |  |
-| 📅20231028   | 📜[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|  | ☑️ | ☑️ |  |  |
-| 📅20231028   | 📜[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|  | ⏳ | ⏳ |  |  |
+| 📅20231028   | 📜[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|  | ☑️ | ☑️ |  |  ☑️ |
+| 📅20231028   | 📜[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|  | ⏳ | ⏳ |  |  ☑️ |
 | 📅20231111   | 📜[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|  | ☑️ |  |  | ⏳  |
 | 📅20231111   | 📜[조회수가 가장 많은 중고거래 게시판 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)|  | ☑️ | |  | ☑️  |
 | 📅20231111   | 📜[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|  | ☑️ | |  | ⏳ |
