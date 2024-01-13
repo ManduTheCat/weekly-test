@@ -139,6 +139,9 @@
 | 📅20240106   | 📜[산타 춘배의 선물 나눠주기](https://www.acmicpc.net/problem/30406)|  | ☑️ | ☑️ |  |  |
 | 📅20240106   | 📜[좀비 떼가 기관총 진지에도 오다니](https://www.acmicpc.net/problem/19644)|  | ⏳ | ☑️ |  |  |
 | 📅20240106   | 📜[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)|  | ⏳ | ☑️ |  |  |
+| 📅20240113   | 📜[Project Teams](https://www.acmicpc.net/problem/20044)|  | ☑️ |  |  |  |
+| 📅20240113   | 📜[용액 합성하기](https://www.acmicpc.net/problem/14921)|  | ☑️ |  |  |  |
+| 📅20240113   | 📜[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)|  | ☑️ |  |  |  |
 <br>
 
 ### 🍒Checking mark
