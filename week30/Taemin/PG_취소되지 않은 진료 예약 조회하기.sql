@@ -1,0 +1,14 @@
+SELECT 
+        AP.APNT_NO, PA.PT_NAME, PA.PT_NO, AP.MCDP_CD, D.DR_NAME, AP.APNT_YMD
+FROM 
+        APPOINTMENT AS AP
+JOIN 
+        PATIENT AS PA
+ON 
+        AP.PT_NO = PA.PT_NO
+JOIN 
+        DOCTOR AS D
+ON  
+        AP.MDDR_ID = D.DR_ID
+WHERE 
+        AP.APNT_YMD = '2022-04-13';
